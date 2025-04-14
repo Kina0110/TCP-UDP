@@ -1,4 +1,4 @@
-README Assignment7 
+# README 
 Created a network echo server (echo_s) that supports both TCP and UDP connections, handles multiple clients using processes, and sends client messages to the log server.
 Developed an echo client (echo_c) to test the echo server and communicate with it using TCP or UDP, depending on the input.
 Implemented a log server (log_s) to record client messages, timestamps, and IP addresses in a file (echo.log) in the required format, creating logging and operation.
